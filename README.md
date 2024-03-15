@@ -19,7 +19,7 @@ MarkDown 내용 정리
 <!-- Text attributes -->
 
 + 볼드 형식 : **볼드**
-+ 아탤릭 형식 : *이텔릭*
++ 이탤릭 형식 : *이텔릭*
 + 스트라이크쓰루 : ~~스트라이크쓰루~~
 
 <!-- Quote -->
@@ -29,3 +29,44 @@ MarkDown 내용 정리
 아이템 리스트
 * 아이템 1
 * 아이템 2
+
+<!-- Numbered List -->
+숫자 리스트 :
+
+1. 숫자 1
+2. 숫자 2
+3. 숫자 3
+
+<!-- Link -->
+Click [My Git hub](https://github.com/RyuHaJung/AI_Project)
+
+<!-- Image -->
+![image](https://i.pinimg.com/236x/d8/a6/cb/d8a6cbb02bc2c5c27ae238db2e89425d.jpg)
+
+<!-- Table -->
+
+|Header|Description|other|
+|--:|:--|:--:|
+|Cell1|Cell2|Cell3|
+|Cell1|Cell2|Cell3|
+|Cell1|Cell2|Cell3|
+|Cell1|Cell2|Cell3|
+|Cell1|Cell2|Cell3|
+
+
+:-- 좌 정렬
+--: 우 정렬
+:--: 중앙 정렬
+
+<!-- Code -->
+
+debug console Sample `Debug.log("--")`
+
+```C#
+Debug.Log(Message)
+```
+
+<!-- TodoList -->
+- [x] #739
+- [ ] https://github.com
+- [ ] add
