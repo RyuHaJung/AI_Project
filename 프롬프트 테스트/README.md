@@ -12,3 +12,18 @@ A young woman with light yellow dress sitting next to a brick window reading a b
 Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 434734061, Size: 512x512, Model hash: 6ce0161689, Model: v1-5-pruned-emaonly, Version: v1.8.0
 
 ---
+
+
+
+![image](https://raw.githubusercontent.com/RyuHaJung/AI_Project/f36c3b399636ca8a87668ebb2cd5304064c4570c/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00089-2226655729.png)
+
+### Adtailer 사용 전 후
+
+![image](https://raw.githubusercontent.com/RyuHaJung/AI_Project/f36c3b399636ca8a87668ebb2cd5304064c4570c/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00090-2226655729.png)
+
+parameters
+```
+masterpiece, best quality, 1girl, sitting, ahoge, blonde hair, blue eyes, fur collar, fur trim, grass, short hair, smile, solo, trembling, full body, shoes, sky, mountain, forest, (flower field:1.5), (falling petals:1.3)
+
+```
+badhandv4, EasyNegative, verybadimagenegative_v1.3, (worst quality:2), (low quality:2), (normal quality:2)
