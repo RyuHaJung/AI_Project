@@ -38,3 +38,11 @@ inpaint
 ![image](https://github.com/RyuHaJung/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00009-286583656.png?raw=true)
 
 ---
+i2i
+---
+
+![image](https://github.com/RyuHaJung/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B7%B8%EB%A6%BC1.png?raw=true)
+
+![image](https://github.com/RyuHaJung/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00019-3830771731.png?raw=true)
+
+---
