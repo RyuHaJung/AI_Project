@@ -27,3 +27,14 @@ masterpiece, best quality, 1girl, sitting, ahoge, blonde hair, blue eyes, fur co
 
 ```
 badhandv4, EasyNegative, verybadimagenegative_v1.3, (worst quality:2), (low quality:2), (normal quality:2)
+
+
+---
+inpaint
+---
+
+![image](https://github.com/RyuHaJung/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00003-1532018021.png?raw=true)
+
+![image](https://github.com/RyuHaJung/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00009-286583656.png?raw=true)
+
+---
