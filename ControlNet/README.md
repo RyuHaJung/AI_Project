@@ -22,3 +22,21 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2964376414, Size: 512x5
 ## Pixel
 
 ![image](https://github.com/RyuHaJung/AI_Project/blob/main/ControlNet/Pixel.png?raw=true)
+
+## OpenPose
+![image](https://github.com/RyuHaJung/AI_Project/blob/main/ControlNet/OpenPose/Pose_In.png?raw=true)
+
+![image](https://github.com/RyuHaJung/AI_Project/blob/main/ControlNet/OpenPose/Pose_Out.png?raw=true)
+
+## Seg
+![image](https://github.com/RyuHaJung/AI_Project/blob/main/ControlNet/OpenPose/Seg_01.png?raw=true)
+
+![image](https://github.com/RyuHaJung/AI_Project/blob/main/ControlNet/OpenPose/Seg_02.png?raw=true)
+
+---
+## LoRA
+![image](https://github.com/RyuHaJung/AI_Project/blob/main/ControlNet/OpenPose/Cat_loRA_01.png?raw=true)
+
+![image](https://github.com/RyuHaJung/AI_Project/blob/main/ControlNet/OpenPose/Cat_loRA_02.png?raw=true)
+
+![image](https://github.com/RyuHaJung/AI_Project/blob/main/ControlNet/OpenPose/Cat_loRA_03.png?raw=true)
